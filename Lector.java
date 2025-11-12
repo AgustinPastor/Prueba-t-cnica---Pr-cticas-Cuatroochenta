@@ -1,3 +1,8 @@
+import clases.BlueRay;
+import clases.CD;
+import clases.DiscoDuro;
+import clases.DispositivoDeAlmacenamiento;
+
 public class Lector {   
 
 public static void main(String[] args)

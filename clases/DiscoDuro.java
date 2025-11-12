@@ -1,3 +1,5 @@
+package clases;
+
 public class DiscoDuro extends DispositivoDeAlmacenamiento {
    
    private final double velocidadRotacion;

@@ -1,3 +1,5 @@
+package clases;
+
 public class BlueRay extends DispositivoDeAlmacenamiento {
    
    private final double velocidadGiro;

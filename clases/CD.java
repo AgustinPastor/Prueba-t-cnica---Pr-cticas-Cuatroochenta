@@ -1,3 +1,5 @@
+package clases;
+
 public class CD extends DispositivoDeAlmacenamiento {
    
    private final double velocidadLectura;
