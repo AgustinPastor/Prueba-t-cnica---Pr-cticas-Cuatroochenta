@@ -3,7 +3,9 @@ PRUEBA TÉCNICA - PRÁCTICAS CUATROOCHENTA
 Este repositorio contiene la solución a la prueba técnica de POO, implementada con Java.
 
 1. RESOLUCIÓN
+
    Se ha optado por utilizar un modelo de Herencia:
+
    · Clase Padre Abstracta (DispositivoDeAlmacenamiento):
 
    1. contiene las propiedades comunes: nombre, capacidad, tipoDeDisco y contenido.
@@ -13,6 +15,7 @@ Este repositorio contiene la solución a la prueba técnica de POO, implementada
    ·Clases hijas: CD, DiscoDuro y BlueRay, que heredan los atributos y métodos del padre.
 
 2. REQUISITOS ESPECÍFICOS
+
    Revisando el documento PDF de la prueba en detalle, noté que había tres requisitos adicionales formateados como texto en blanco sólo visibles al seleccionar el texto:
 
    1. Atributo Brand en todas las clases hijas, sin getter ni setter.
